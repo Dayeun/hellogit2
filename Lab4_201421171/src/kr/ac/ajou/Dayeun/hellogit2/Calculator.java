@@ -6,7 +6,7 @@ public class Calculator {
 		// TODO Auto-generated method stub
 		
 
-	}
+	} 
 	
 	public double add(double x, double y){
 		//programmer A
