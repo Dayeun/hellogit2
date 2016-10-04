@@ -36,7 +36,7 @@ public class Calculator {
 		//programmer A
 		String tmb;
 		
-		tmb=("name: Dayeun,kangbada0728,jek90"+"StudentId: 201421171,201220987,201222777"+"Repository URI: https://github.com/Dayeun/hellogit2.git")
+		tmb=("name: Dayeun,kangbada0728,jek90"+"StudentId: 201421171,201220987,201222777"+"Repository URI: https://github.com/Dayeun/hellogit2.git");
 		
 		return tmb;
 	}
