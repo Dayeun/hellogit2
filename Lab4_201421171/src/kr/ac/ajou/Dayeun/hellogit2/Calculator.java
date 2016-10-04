@@ -34,7 +34,7 @@ public class Calculator {
 	}
 	public String toString(){
 		//programmer A
-		// hallo
+		// hallo1
 		String tmb;
 		
 		tmb=("name: Dayeun,kangbada0728,jek90"+"StudentId: 201421171,201220987,201222777"+"Repository URI: https://github.com/Dayeun/hellogit2.git");
