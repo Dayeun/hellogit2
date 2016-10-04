@@ -18,11 +18,12 @@ public class Calculator {
 	}
 	
 	public double divide(double x, double y){
-		if(y==0)
+		if(y==0){
 			System.out.println("divide Error!");
+			return -1;
+		}
 		else
-			double z=x/y;
-		return z;//
+			return x/y;//
 	}
 	
 	public double multiply(double x, double y){
@@ -30,7 +31,7 @@ public class Calculator {
 	}
 	
 	public int remainder(double x, double y){
-		double z=x%y;
+		int z=(int)(x%y);
 		return z;
 	}
 	public String toString(){
